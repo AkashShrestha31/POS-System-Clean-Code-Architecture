@@ -1,7 +1,3 @@
-Of course! Here's the modified description with the appropriate project title:
-
----
-
 # POS System with Clean Code Architecture
 
 ![App Screenshot](/screenshots/app_screenshot.png)
